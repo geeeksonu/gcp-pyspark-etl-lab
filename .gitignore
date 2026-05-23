@@ -22,5 +22,8 @@ output/
 *-key.json
 application_default_credentials.json
 
+# Prepared landing/source files
+data/landing/
+
 # Jupyter
 .ipynb_checkpoints/
