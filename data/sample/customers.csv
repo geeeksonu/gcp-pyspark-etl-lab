@@ -1,0 +1,5 @@
+customer_id,customer_name,state,customer_type
+C001,John Smith,NY,RETAIL
+C002,Anita Rao,NJ,RETAIL
+C003,Michael Lee,TX,PREMIUM
+C004,Sarah Khan,CA,RETAIL
