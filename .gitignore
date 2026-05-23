@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+spark-env/
+
+# Mac
+.DS_Store
+
+# Local data/output
+data/raw/
+data/curated/
+data/staging/
+output/
+
+# Logs
+*.log
+
+# GCP credentials - never commit these
+*.json
+*-key.json
+application_default_credentials.json
+
+# Jupyter
+.ipynb_checkpoints/
